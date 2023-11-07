@@ -6,7 +6,7 @@ Kelas : TI.22.B1
 NIM : 312210125
 Berikut adalah link presentasi penjelasan tentang program yang di buat. [Tonton video disini](https://youtu.be/qNsMSdgh0qg?si=N_3-HtmMWTHT-NWp)
 Source Code :
-### MainActivity.java
+* MainActivity.java
   ```package com.toast;
   
   import androidx.appcompat.app.AppCompatActivity;
@@ -97,7 +97,7 @@ Source Code :
       }
   }```
 
-### toast_activity.xml
+* toast_activity.xml
 
 
 ```<?xml version="1.0" encoding="utf-8"?>
@@ -201,7 +201,7 @@ Source Code :
 
 </RelativeLayout>```
 
-### string.xml
+* string.xml
   ```<resources>
     <string name="app_name">BelajarAndroidToast</string>
     <string name="button_label_toast">Toast</string>
@@ -209,7 +209,7 @@ Source Code :
     <string name="hitung_initial_value">0</string>
     <string name="toast_pesan">Berhasil diklik</string>
 </resources>```
-### colors.xml
+* colors.xml
   ```<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
