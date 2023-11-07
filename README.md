@@ -98,7 +98,9 @@ Source Code :
   }```
 
 ### toast_activity.xml
-  <?xml version="1.0" encoding="utf-8"?>
+
+
+```<?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -197,18 +199,18 @@ Source Code :
             android:text="Hitung"/>
 
 
-</RelativeLayout>
+</RelativeLayout>```
 
 ### string.xml
-  <resources>
+  ```<resources>
     <string name="app_name">BelajarAndroidToast</string>
     <string name="button_label_toast">Toast</string>
     <string name="button_label_hitung">Hitung</string>
     <string name="hitung_initial_value">0</string>
     <string name="toast_pesan">Berhasil diklik</string>
-</resources>
+</resources>```
 ### colors.xml
-  <?xml version="1.0" encoding="utf-8"?>
+  ```<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
@@ -218,4 +220,4 @@ Source Code :
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FFBB86FC</color>
     <color name="red">#D10000</color>
-</resources>
+</resources>```
