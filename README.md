@@ -7,7 +7,7 @@ NIM : 312210125
 Berikut adalah link presentasi penjelasan tentang program yang di buat. [Tonton video disini](https://youtu.be/qNsMSdgh0qg?si=N_3-HtmMWTHT-NWp)
 Source Code :
 ### MainActivity.java
-  package com.toast;
+  ```package com.toast;
   
   import androidx.appcompat.app.AppCompatActivity;
   
@@ -95,7 +95,7 @@ Source Code :
           mShowCount.setText(Integer.toString(mCount));
           mShowCountFibo.setText(Integer.toString(mCountFibo));
       }
-  }
+  }```
 
 ### toast_activity.xml
   <?xml version="1.0" encoding="utf-8"?>
